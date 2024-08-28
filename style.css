@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 10%;
+    height: 80%;
+    width: 100%;
+    background-color:skyblue;
+    
+}
+
+.container{
+    height: 60vh;
+    width: 80%;
+    border: 2px solid black;
+    text-align: center;
+    background-image: url(./images/pic1.png);
+    
+}
+
+h1{
+    color:red;
+}
